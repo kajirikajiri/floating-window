@@ -1,0 +1,3 @@
+[submodule "diffs"]
+	path = diffs
+	url = https://github.com/kajirikajiri/diff-for-git-diff-search.git
